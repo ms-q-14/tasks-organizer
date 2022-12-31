@@ -19,7 +19,7 @@
 
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
-* [Live Demo] (#live-demo)
+* [Live Demo](#live-demo)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
